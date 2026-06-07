@@ -17,12 +17,10 @@
 
 body {
   font-family: "Poppins", sans-serif;
-  background-color: var(--color-grey-bg);
 }
 
 .container {
   padding: 50px 20px;
-  background-color: var(--color-grey-bg);
   display: flex;
   align-items: center;
   justify-content: center;
